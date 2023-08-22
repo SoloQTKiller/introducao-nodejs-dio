@@ -1,0 +1,21 @@
+{
+  "name": "introducao-nodejs-dio",
+  "version": "1.0.0",
+  "description": "Repositorio criado para guardar meus scripts do curso de Introdução ao Node.js com JavaScript da plataforma DIO",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "server",
+    "curso",
+    "DIO"
+  ],
+  "author": "SoloQTKiller",
+  "license": "ISC",
+  "dependencies": {
+    "os": "^0.1.2"
+  }
+}
